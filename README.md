@@ -1,7 +1,7 @@
 
 # Sysfoo Application
 
-A Devops Learning App 
+
 
 ## About the Application
 
